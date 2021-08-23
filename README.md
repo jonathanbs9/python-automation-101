@@ -2,3 +2,4 @@
 
 # Dependencies
     *   pytest
+    *   pyleniumio (Chapter05) 
